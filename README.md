@@ -1,3 +1,7 @@
+# UPDATE 2024 March 24
+
+The command `sh download_models.sh` does not work anymore, the ipynb has been updated to this end, just run it.
+
 # PytorchNeuralStyleTransfer
 
 Code to run Neural Style Transfer from our paper [Image Style Transfer Using Convolutional Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html).
